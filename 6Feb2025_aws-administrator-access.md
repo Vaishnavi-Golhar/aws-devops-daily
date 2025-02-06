@@ -6,18 +6,18 @@ Many AWS users believe that attaching the **AdministratorAccess** policy gives t
 
 By default, only the **root user** can access billing information. If you attach **AdministratorAccess** to an IAM user, they will have full control over AWS services **except for billing**.
 
-## ✅ What AdministratorAccess Allows:
+### ✅ What AdministratorAccess Allows:
 ✔ **Full access to all AWS services** (EC2, S3, Lambda, RDS, etc.)  
 ✔ **Full control over IAM users, roles, and policies**  
 ✔ **Ability to create, modify, and delete resources**  
 ✔ **Full control over networking, security, and storage**  
 
-## ❌ What It Doesn’t Grant:
+### ❌ What It Doesn’t Grant:
 🚫 **Billing & Cost Management** (must be enabled separately)  
 🚫 **Root-only settings** (closing the AWS account, changing root user credentials)  
 🚫 **Managing AWS Support Plans**  
 
-## 💡 How to Enable Billing Access for IAM Users:
+### 💡 How to Enable Billing Access for IAM Users:
 1️⃣ **Log in as the root user**  
 2️⃣ **Go to the AWS Billing Dashboard** ([AWS Billing Dashboard](https://console.aws.amazon.com/billing/home))  
 3️⃣ **Enable IAM access to billing** under **Billing Preferences**  
