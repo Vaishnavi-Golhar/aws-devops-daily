@@ -1,4 +1,4 @@
-## 🚀 AWS AdministratorAccess Policy – What You Need to Know! 🔥
+### 🚀 AWS AdministratorAccess Policy – What You Need to Know! 🔥
 
 Many AWS users believe that attaching the **AdministratorAccess** policy gives them full control over their AWS account. While this is mostly true, there’s **one key limitation**:
 
