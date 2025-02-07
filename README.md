@@ -1,13 +1,13 @@
 ### AWS & DevOps Daily Insights 🚀  
 
-Welcome to **AWS & DevOps Daily**, where I share **daily tips, best practices, and insights** on **AWS, DevOps, and Cloud Computing**. This repository serves as an archive of my **LinkedIn posts**, making it easy to reference past content in one place.  
+Welcome to ***AWS & DevOps Daily***, where I share **daily tips, best practices, and insights** on **AWS, DevOps, and Cloud Computing**. This repository serves as an archive of my **LinkedIn posts**, making it easy to reference past content in one place.  
 
 ### 📌 What You'll Find Here  
-✅ **AWS security best practices** 🔒  
-✅ **IAM policies & access management** 🛠️  
-✅ **DevOps automation & CI/CD pipelines** 🚀  
-✅ **Cloud cost optimization** 💰  
-✅ **Kubernetes, Terraform, Docker & more** 🐳  
+✅ ***AWS security best practices*** 🔒  
+✅ ***IAM policies & access management*** 🛠️  
+✅ ***DevOps automation & CI/CD pipelines*** 🚀  
+✅ ***Cloud cost optimization*** 💰  
+✅ ***Kubernetes, Terraform, Docker & more*** 🐳  
 
 ### 📅 Daily Knowledge Archive  
 Posts are organized by **year/month** for easy navigation.  
